@@ -1,6 +1,6 @@
 # Product Classification API
 
-This project is a Machine Learning-based API for classifying products into their main categories based on their features, using a simplified dataset derived from Amazon product data. Project carried out by Javier López Palacios for the Fever Code Challenge.
+This project is a Machine Learning-based API for classifying products into their main categories based on their features, using a simplified dataset derived from Amazon product data. Project carried out by Javier López Palacios for some company Code Challenge.
 
 ---
 
