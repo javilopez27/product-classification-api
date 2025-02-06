@@ -23,7 +23,7 @@ This project is a Machine Learning-based API for classifying products into their
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/FeverCodeChallenge/javier_lopez.git
+git clone https://github.com/javilopez27/product-classification-api.git
 cd javier_lopez
 ```
 
