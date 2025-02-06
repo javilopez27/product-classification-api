@@ -91,8 +91,8 @@ project/
 ├── .gitignore               # Ignored files
 ├── requirements.txt         # Python dependencies
 ├── Dockerfile               # Docker configuration
-├── README.md                # Project documentation
-└── README_solution.md       # Solution documentation
+├── README_task.md                # Project documentation
+└── README.md       # Solution documentation
 ```
 
 ---
